@@ -8,6 +8,10 @@ If you would like to make a suggestion for the bot, please open an issue [here](
 
 If you would like to contribute to the bot, please send us an email at [contribute@apachebot.net](mailto:contribute@apachebot.net), and we will be in touch regarding your contribution to the project.
 
+# About the developer
+
+My name is Ollie, I am a british college student, and I enjoy working on small boilerplate projects to improve my programming knowledge. I am hoping to go into a career of software engineering, and have developed a portfolio [here](https://www.beenhamow.xyz). 
+
 # Using Apache
 
 If you would like to learn more about Apache, please visit [our website](https://www.apachebot.net).
